@@ -12,6 +12,16 @@ dist
 dist-ssr
 *.local
 
+# Security-related files
+.env
+.env.local
+src/serviceKey.json
+
+# Build files
+/dist
+/build
+node_modules/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

@@ -42,8 +42,8 @@ Built with **React.js, Tailwind CSS 4.0, and Firebase**, it provides a **fast, s
   ├── firebaseConfig.js
   ├── App.jsx  
   ├── main.jsx  
-  ├── index.css
-```
+  ├── index.css  
+
 ## 🚀 Quick Start
 
 1. **Clone the Repository**
@@ -64,6 +64,7 @@ Built with **React.js, Tailwind CSS 4.0, and Firebase**, it provides a **fast, s
 
 It will run on `http://localhost:5173`
 
+```
 ## **Usage Guide**  
 
 => **Sign up / Log in** to add or manage recipes.  
