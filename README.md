@@ -3,6 +3,8 @@
 **Meal Matchmaker** is a modern **recipe-sharing platform** where users can **browse and manage recipes** easily. 
 Built with **React.js, Tailwind CSS 4.0, and Firebase**, it provides a **fast, secure, and user-friendly experience**.  
 
+Explore in https://mealmatchmaker.netlify.app/
+
 ---
 
 ## **Features**  
