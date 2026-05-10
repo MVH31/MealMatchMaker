@@ -1,7 +1,7 @@
 {
   "name": "meal-matchmaker",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.0.8",
     "firebase": "^11.3.1",
-    "firebase-admin": "^13.2.0",
+    "firebase-admin": "^12.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
